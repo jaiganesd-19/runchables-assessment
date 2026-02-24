@@ -26,7 +26,7 @@ export default function HeroSection() {
   };
 
   return (
-    <section className="relative w-full text-white py-15 px-6 text-center overflow-hidden">
+    <section className="relative  bg-black w-full text-white py-15 px-6 text-center overflow-hidden">
       <div className="relative z-10 max-w-6xl mx-auto">
 
         {/* Top Micro Text */}
